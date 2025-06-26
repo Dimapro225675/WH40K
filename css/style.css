@@ -1,0 +1,10 @@
+@import 'basic/_reset.css';
+@import 'basic/_fonts.css';
+@import 'basic/_btn.css';
+@import 'basic/_modal.css';
+@import 'basic/_global.css';
+
+@import "components/_header.css";
+@import "home/_main.css";
+@import "home/_dop.css";
+@import "components/_footer.css";
